@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec96d07a.chunk.css",
+    "main.js": "/static/js/main.d5ea959a.chunk.js",
+    "main.js.map": "/static/js/main.d5ea959a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f69c4a58.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f69c4a58.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.c077fc6f.chunk.js": "/static/js/2.c077fc6f.chunk.js",
+    "static/js/2.c077fc6f.chunk.js.map": "/static/js/2.c077fc6f.chunk.js.map",
+    "static/js/3.1831e7aa.chunk.js": "/static/js/3.1831e7aa.chunk.js",
+    "static/js/3.1831e7aa.chunk.js.map": "/static/js/3.1831e7aa.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.ec96d07a.chunk.css.map": "/static/css/main.ec96d07a.chunk.css.map",
+    "static/js/2.c077fc6f.chunk.js.LICENSE.txt": "/static/js/2.c077fc6f.chunk.js.LICENSE.txt",
+    "static/media/abuelajovenedit.a1ee3114.jpg": "/static/media/abuelajovenedit.a1ee3114.jpg",
+    "static/media/amor.be1c8cfc.png": "/static/media/amor.be1c8cfc.png",
+    "static/media/dioni-pink1.a441cb43.jpg": "/static/media/dioni-pink1.a441cb43.jpg",
+    "static/media/familia.6deb495f.png": "/static/media/familia.6deb495f.png",
+    "static/media/naturaleza.1403ae42.png": "/static/media/naturaleza.1403ae42.png",
+    "static/media/otros.25438b9e.png": "/static/media/otros.25438b9e.png",
+    "static/media/portada.cef03e5f.png": "/static/media/portada.cef03e5f.png",
+    "static/media/religion.187e6604.png": "/static/media/religion.187e6604.png",
+    "static/media/spinner.4628ba16.gif": "/static/media/spinner.4628ba16.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f69c4a58.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.c077fc6f.chunk.js",
+    "static/css/main.ec96d07a.chunk.css",
+    "static/js/main.d5ea959a.chunk.js"
+  ]
+}
